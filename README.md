@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [AI based Customer Relationship Management](https://github.com/PGPradhan/CRM-Dashboard)
 
-- 🌱 I’m currently learning **Next.Js, Flutter and Blockchain**
+- 🌱 I’m currently learning **Next.Js, React Native and Blockchain**
 
 - 👯 I’m looking to collaborate on [Requesting City Services via AI driven Apps](https://github.com/CityOfBoston/summerofcode)
 
