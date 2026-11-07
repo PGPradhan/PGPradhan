@@ -1,40 +1,118 @@
-<h1 align="left">Hi 👋, I'm Prathamesh Pradhan</h1>
-<h3 align="left">A passionate Web Developer from India</h3>
-<img align="center" alt="Coding" width="400"  src="data:image/png;base64,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" />
+# Hi there! 👋 I'm Prathamesh Pradhan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pgpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="pgpradhan" /> </p>
+### Microsoft Dynamics 365 & Power Platform Developer | Azure Integrations | Full-Stack Development
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pgpradhan" alt="pgpradhan" /></a> </p>
+**Turning complex business requirements into scalable, automated, and intelligent digital solutions.**
 
-- 🔭 I’m currently working on [AI based Customer Relationship Management](https://github.com/PGPradhan/CRM-Dashboard)
+I'm a software developer based in India, specializing in **Microsoft Dynamics 365 CRM, Power Platform, Azure integrations, and enterprise application development**.
 
-- 🌱 I’m currently learning **Next.Js, React Native and Blockchain**
+With nearly **3 years of professional experience**, I help businesses streamline operations, automate workflows, connect systems, and develop custom applications that solve real business challenges.
 
-- 👯 I’m looking to collaborate on [Requesting City Services via AI driven Apps](https://github.com/CityOfBoston/summerofcode)
+Beyond the Microsoft ecosystem, I have a background in **full-stack web development, Python, and AI/ML**, enabling me to approach problems from multiple technical perspectives.
 
-- 💬 Ask me about **MERN, Machine Learning & Computer Vision**
+📍 India | 🌍 Open to Remote & International Freelance Projects
 
-- 📫 How to reach me **pradhan.prathamesh10@gmail.com**
+📩 **Available for freelance collaborations and project-based development.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17UxJejSR6lVd3ie1hFsS5iVQfuzjQxcE/view?usp=drive_link](https://drive.google.com/file/d/17UxJejSR6lVd3ie1hFsS5iVQfuzjQxcE/view?usp=drive_link)
+---
 
-- ⚡ Fun fact **I think I am funny**
+## 🚀 What I Can Build for You
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/pratss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pratss" height="30" width="40" /></a>
-<a href="https://twitter.com/pratham54932574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratham54932574" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-pradhan-5ba954215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-pradhan-5ba954215/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/pgpradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/pgpradhan" height="30" width="40" /></a>
-<a href="https://instagram.com/_i_m_prathamesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_i_m_prathamesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivpra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivpra" height="30" width="40" /></a>
-</p>
+**🔹 Microsoft Dynamics 365 CRM**
+- CRM customization, configuration, and development
+- Custom plugins using C# and .NET
+- JavaScript form scripting and business logic
+- Custom workflows, business rules, and security configurations
+- Dataverse development and API integrations
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**🔹 Microsoft Power Platform**
+- Power Apps (Model-Driven & Canvas Apps)
+- Power Automate cloud flows and workflow automation
+- Custom Dataverse solutions
+- Business process automation and system optimization
+- Power Platform solution deployment and ALM
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgpradhan&show_icons=true&locale=en&layout=compact" alt="pgpradhan" /></p>
+**🔹 Azure & Enterprise Integrations**
+- Azure Functions and Logic Apps
+- REST API and webhook development
+- CRM integration with external applications and ERP systems
+- Secure API authentication and data synchronization
+- Event-driven integrations and cloud automation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgpradhan&show_icons=true&locale=en" alt="pgpradhan" /></p>
+**🔹 Full-Stack & Custom Development**
+- React.js, Node.js, Express.js
+- JavaScript, TypeScript, Python, and C#
+- RESTful APIs and backend services
+- Database-driven applications
+- Custom dashboards and business tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pgpradhan&" alt="pgpradhan" /></p>
+---
+
+## 🛠️ My Technical Stack
+
+| Category | Technologies |
+|---|---|
+| CRM & Business Applications | Dynamics 365 CE, Dataverse, Power Apps |
+| Automation | Power Automate, Business Process Flows |
+| Cloud & Integration | Azure Functions, Logic Apps, REST APIs, Webhooks |
+| Backend Development | C#, .NET, Node.js, Express.js, Python |
+| Frontend Development | JavaScript, TypeScript, React.js, HTML, CSS |
+| Databases | Dataverse, SQL, MongoDB |
+| DevOps & Tools | Azure DevOps, Git, GitHub, Visual Studio, Postman |
+| Additional Interests | AI/ML, Intelligent Automation, Computer Vision |
+
+---
+
+## 💼 Areas of Experience
+
+### Enterprise CRM Development
+Developing and customizing Dynamics 365 applications with plugins, JavaScript, Dataverse, business rules, and automation to support complex business requirements.
+
+### Workflow Automation & Integrations
+Building automated business processes using Power Automate, Azure Functions, Logic Apps, REST APIs, and webhooks.
+
+### Business Application Modernization
+Transforming spreadsheet-based business processes into structured, scalable applications with centralized data, calculations, and reporting capabilities.
+
+### Data Integration & Synchronization
+Designing integrations between Dataverse, enterprise applications, and external data sources with attention to validation, data mapping, and reliability.
+
+*Enterprise work is described at a high level to respect client and employer confidentiality.*
+
+---
+
+## 🎯 Why Work With Me?
+
+✅ Experience with real-world enterprise applications
+
+✅ Strong understanding of business requirements and technical implementation
+
+✅ Microsoft PL-400 certified
+
+✅ Comfortable with both low-code and pro-code development
+
+✅ Focused on maintainable, reliable, and scalable solutions
+
+✅ Available for clearly scoped freelance assignments and remote collaborations
+
+I value **clear communication, transparent deliverables, clean code, and long-term professional relationships**.
+
+---
+
+## 🤝 Let's Collaborate
+
+Have a Dynamics 365 customization, Power Platform automation, Azure integration, or custom development requirement?
+
+Whether you need help with a specific technical challenge, an integration, or a complete business application, I'd be happy to discuss your project.
+
+📧 **Email:** [pradhan.prathamesh10@gmail.com](mailto:pradhan.prathamesh10@gmail.com)
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/prathamesh-pradhan-5ba954215/)
+
+💻 **GitHub:** [PGPradhan](https://github.com/PGPradhan)
+
+**Let's build something valuable together. 🚀**
+
+---
+
+*"I don't just write code. I build solutions that make businesses work smarter."*
