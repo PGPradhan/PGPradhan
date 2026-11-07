@@ -1,118 +1,129 @@
-# Hi there! 👋 I'm Prathamesh Pradhan
+ <div align="center">
 
-### Microsoft Dynamics 365 & Power Platform Developer | Azure Integrations | Full-Stack Development
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=180&section=header&text=Prathamesh%20Pradhan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-**Turning complex business requirements into scalable, automated, and intelligent digital solutions.**
+### 👋 Hey there! Welcome to my GitHub
 
-I'm a software developer based in India, specializing in **Microsoft Dynamics 365 CRM, Power Platform, Azure integrations, and enterprise application development**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Dynamics+365+%26+Power+Platform+Developer;Azure+Integrations+%26+Automation;C%23+%7C+.NET+%7C+JavaScript+%7C+React;Building+Scalable+Business+Solutions;Open+to+Freelance+Projects!" alt="Animated introduction" />
 
-With nearly **3 years of professional experience**, I help businesses streamline operations, automate workflows, connect systems, and develop custom applications that solve real business challenges.
+**Microsoft Dynamics 365 | Power Platform | Azure | Full-Stack Development**
 
-Beyond the Microsoft ecosystem, I have a background in **full-stack web development, Python, and AI/ML**, enabling me to approach problems from multiple technical perspectives.
+*Turning business challenges into intelligent digital solutions.*
 
-📍 India | 🌍 Open to Remote & International Freelance Projects
+![Profile Views](https://komarev.com/ghpvc/?username=PGPradhan&color=2563eb&style=for-the-badge)
 
-📩 **Available for freelance collaborations and project-based development.**
-
----
-
-## 🚀 What I Can Build for You
-
-**🔹 Microsoft Dynamics 365 CRM**
-- CRM customization, configuration, and development
-- Custom plugins using C# and .NET
-- JavaScript form scripting and business logic
-- Custom workflows, business rules, and security configurations
-- Dataverse development and API integrations
-
-**🔹 Microsoft Power Platform**
-- Power Apps (Model-Driven & Canvas Apps)
-- Power Automate cloud flows and workflow automation
-- Custom Dataverse solutions
-- Business process automation and system optimization
-- Power Platform solution deployment and ALM
-
-**🔹 Azure & Enterprise Integrations**
-- Azure Functions and Logic Apps
-- REST API and webhook development
-- CRM integration with external applications and ERP systems
-- Secure API authentication and data synchronization
-- Event-driven integrations and cloud automation
-
-**🔹 Full-Stack & Custom Development**
-- React.js, Node.js, Express.js
-- JavaScript, TypeScript, Python, and C#
-- RESTful APIs and backend services
-- Database-driven applications
-- Custom dashboards and business tools
+</div>
 
 ---
 
-## 🛠️ My Technical Stack
+## 👨‍💻 About Me
 
-| Category | Technologies |
+<img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer coding" />
+
+I'm **Prathamesh**, a software developer based in India with nearly **3 years of experience** building enterprise CRM solutions, workflow automations, cloud integrations, and custom applications.
+
+I specialize in the **Microsoft Business Applications ecosystem**, combining low-code platforms with professional software development.
+
+- 🔭 Building solutions using **Dynamics 365, Dataverse & Azure**
+- ⚡ Automating business workflows with **Power Automate**
+- ☁️ Developing integrations using **Azure Functions, Logic Apps & REST APIs**
+- 💻 Working with **C#, .NET, JavaScript, React & Python**
+- 🏆 **Microsoft Certified: Power Platform Developer Associate (PL-400)**
+- 🤝 Open to **remote freelance projects and collaborations**
+
+<br clear="right"/>
+
+---
+
+## 🚀 What I Can Do for Your Business
+
+| 💼 Services | 🛠️ Solutions |
 |---|---|
-| CRM & Business Applications | Dynamics 365 CE, Dataverse, Power Apps |
-| Automation | Power Automate, Business Process Flows |
-| Cloud & Integration | Azure Functions, Logic Apps, REST APIs, Webhooks |
-| Backend Development | C#, .NET, Node.js, Express.js, Python |
-| Frontend Development | JavaScript, TypeScript, React.js, HTML, CSS |
-| Databases | Dataverse, SQL, MongoDB |
-| DevOps & Tools | Azure DevOps, Git, GitHub, Visual Studio, Postman |
-| Additional Interests | AI/ML, Intelligent Automation, Computer Vision |
+| Dynamics 365 CRM | Customization, plugins, JavaScript, business logic |
+| Power Platform | Power Apps, Power Automate, Dataverse |
+| Azure Integrations | Azure Functions, Logic Apps, APIs, webhooks |
+| Business Automation | Workflow optimization and process automation |
+| Custom Development | C#, .NET, React, Node.js, Python |
+| Data Integration | Dataverse synchronization, data mapping, ERP integrations |
 
 ---
 
-## 💼 Areas of Experience
+## 🛠️ Tech Stack
 
-### Enterprise CRM Development
-Developing and customizing Dynamics 365 applications with plugins, JavaScript, Dataverse, business rules, and automation to support complex business requirements.
+<div align="center">
 
-### Workflow Automation & Integrations
-Building automated business processes using Power Automate, Azure Functions, Logic Apps, REST APIs, and webhooks.
+**CRM & Microsoft Ecosystem**
 
-### Business Application Modernization
-Transforming spreadsheet-based business processes into structured, scalable applications with centralized data, calculations, and reporting capabilities.
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=for-the-badge&logo=dynamics365&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+![Dataverse](https://img.shields.io/badge/Dataverse-512BD4?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Data Integration & Synchronization
-Designing integrations between Dataverse, enterprise applications, and external data sources with attention to validation, data mapping, and reliability.
+**Languages & Frameworks**
 
-*Enterprise work is described at a high level to respect client and employer confidentiality.*
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+**DevOps & Tools**
 
-## 🎯 Why Work With Me?
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-✅ Experience with real-world enterprise applications
-
-✅ Strong understanding of business requirements and technical implementation
-
-✅ Microsoft PL-400 certified
-
-✅ Comfortable with both low-code and pro-code development
-
-✅ Focused on maintainable, reliable, and scalable solutions
-
-✅ Available for clearly scoped freelance assignments and remote collaborations
-
-I value **clear communication, transparent deliverables, clean code, and long-term professional relationships**.
+</div>
 
 ---
 
-## 🤝 Let's Collaborate
+## 💡 What I Love Building
 
-Have a Dynamics 365 customization, Power Platform automation, Azure integration, or custom development requirement?
+🔹 **Enterprise CRM Solutions** — Custom plugins, form logic, security, and automation.
 
-Whether you need help with a specific technical challenge, an integration, or a complete business application, I'd be happy to discuss your project.
+🔹 **Business Process Automation** — Eliminating repetitive tasks through intelligent workflows.
 
-📧 **Email:** [pradhan.prathamesh10@gmail.com](mailto:pradhan.prathamesh10@gmail.com)
+🔹 **Cloud Integrations** — Connecting CRM, APIs, ERP platforms, and enterprise data systems.
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/prathamesh-pradhan-5ba954215/)
+🔹 **Custom Business Applications** — Transforming complex manual processes into scalable applications.
 
-💻 **GitHub:** [PGPradhan](https://github.com/PGPradhan)
-
-**Let's build something valuable together. 🚀**
+🔹 **Full-Stack Applications** — Developing functional, responsive web applications.
 
 ---
 
-*"I don't just write code. I build solutions that make businesses work smarter."*
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PGPradhan&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🤝 Have a Project in Mind?
+
+<div align="center">
+
+### 💼 Let's Build Something Great Together!
+
+I'm open to **freelance projects, technical collaborations, and remote development assignments**.
+
+Whether you're looking to enhance your Dynamics 365 CRM, automate business processes, integrate cloud systems, or build a custom application, let's discuss how I can help.
+
+[![Email Me](https://img.shields.io/badge/Email_Me-Contact_for_Projects-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhan.prathamesh10@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-pradhan-5ba954215/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PGPradhan)
+
+**Clean Code • Reliable Delivery • Business-Focused Solutions**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=110&section=footer" width="100%" />
+
+</div>
