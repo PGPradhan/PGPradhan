@@ -96,13 +96,19 @@ I specialize in the **Microsoft Business Applications ecosystem**, combining low
 
 ---
 
+
 ## 📈 GitHub Activity
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PGPradhan&theme=react-dark&hide_border=true&area=true)
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PGPradhan&theme=github-compact&hide_border=true"
+    alt="GitHub Contribution Activity"
+    width="95%"
+  />
 
 </div>
+
 
 ---
 
